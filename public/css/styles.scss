@@ -1,0 +1,83 @@
+*{
+    transition: all 0.3s;
+}
+body{
+    background: #ffffff;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+}
+.container{
+    margin-top: 2%;
+    border: 3px;
+    border-style:solid;
+    border-radius: 10px;
+    background-image: linear-gradient(to right top, #6b5ccf, #7b55da, #8f4ae2, #a438e8, #bc12eb);
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content:space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.encabezado{
+    border-radius: 10px;
+    background-color: white;
+    min-width: 300px;
+    width: 70%;
+    padding-bottom: 15px;
+}
+.categoria{
+    font-size: 1.5rem;
+    text-align: left;
+    padding: 10px;
+}
+.dificultad{
+    font-size: 1.5rem;
+    text-align: left;
+    padding: 10px;
+}
+.pregunta{
+    font-size: 1.5rem;
+}
+.imagen{
+    object-fit: cover;
+    height: 200px;
+    width: 90%;
+}
+.btn{
+    border-radius: 10px;
+    width: 50%;
+    height: 7%;
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background:rgb(255, 255, 255);
+    border: 2px solid;
+    border-color: #318aac;
+}
+.btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.btn:active{
+    box-shadow: 0 5px 20px rgb(13, 192, 192);
+}
+.numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+}
+
+.puntaje{
+    font-size: 5rem;
+    padding:10px;
+    color:white;
+}

@@ -1,0 +1,1164 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover",
+        "dificultad":4
+        
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "respuesta": "Sherlock Holmes",
+        "incorrecta1": "Katniss Everdeen",
+        "incorrecta2": "Hermione Jean Granger",
+        "incorrecta3": "Harry James Potter \r",
+        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Género al que pertenece la novela \"La historia del ojo\" de George Bataille",
+        "respuesta": "Erótico",
+        "incorrecta1": "Drama",
+        "incorrecta2": "Terror",
+        "incorrecta3": "Suspenso\r",
+        "imagen": "https://i.ibb.co/dgfv8zK/el-ojo.gif",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "imagen": "https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "profesión que tenía Hércules Poirot en las novelas de Agatha Christie.",
+        "respuesta": "Detective",
+        "incorrecta1": "Abogado",
+        "incorrecta2": "Escritor",
+        "incorrecta3": "Vocero\r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de la obra teatral \"Casa de Muñecas\"",
+        "respuesta": "Henrik Ibsen",
+        "incorrecta1": "Edward Albee‎ ",
+        "incorrecta2": "Samuel Beckett‎ ",
+        "incorrecta3": "Albert Camus‎\r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Cosa perdida que buscaba Marcel Proust.",
+        "respuesta": "El Tiempo",
+        "incorrecta1": "La Cabeza",
+        "incorrecta2": "Su Lengua",
+        "incorrecta3": "La Luz\r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El túnel\"",
+        "respuesta": "Ernesto Sábato",
+        "incorrecta1": "Ernest Hemingway",
+        "incorrecta2": "Julio Verne",
+        "incorrecta3": "Gabriel García Márquez\r",
+        "imagen": "https://i.ibb.co/vdTD5sF/el-tunel.jpg",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de \"Moby Dick\"",
+        "respuesta": "Herman Melville",
+        "incorrecta1": "Ernesto Sábato",
+        "incorrecta2": "Ernest Hemingway",
+        "incorrecta3": "Julio Verne\r",
+        "imagen": "https://i.ibb.co/gVQXD5q/mobi.jpg",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Introdujo la lira en la lírica española.",
+        "respuesta": "Garcilaso De La Vega",
+        "incorrecta1": "Robert Langdom",
+        "incorrecta2": "Ernest Hemingway",
+        "incorrecta3": "Edward Albee‎ \r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "protagonista de \"El código Da Vinci\" de Dan Brown",
+        "respuesta": "Robert Langdom",
+        "incorrecta1": "Sherlock Holmes",
+        "incorrecta2": "Katniss Everdeen",
+        "incorrecta3": "Hermione Jean Granger\r",
+        "imagen": "https://i.ibb.co/hDzmpKG/code-da-vinci.jpg",
+        "objectFit": "contain",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Es el género más cultivado por los autores de la generación del 27",
+        "respuesta": "Poesía",
+        "incorrecta1": "Prosa",
+        "incorrecta2": "Suspenso",
+        "incorrecta3": "Terror\r",
+        "imagen": "https://i.ibb.co/qmrQJhM/27.jpg",
+        "objectFit": "contain",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Lo que describe una prosopografía.",
+        "respuesta": "El Físico De Una Persona",
+        "incorrecta1": "La estructura de un Poema",
+        "incorrecta2": "El Autor De Una Obra En Prosa",
+        "incorrecta3": "Un Auto\r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor español que firmaba como Fígaro.",
+        "respuesta": "Mariano José De Larra",
+        "incorrecta1": "Mercedes Abad",
+        "incorrecta2": "Fígaro",
+        "incorrecta3": "Manuel Vázquez Montalbán\r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "donde pertenece la colección de relatos folklóricos llamada Mabinogion",
+        "respuesta": "Gales",
+        "incorrecta1": "Alejandría",
+        "incorrecta2": "Londres",
+        "incorrecta3": "Irlanda Del Norte\r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "escribió la música del himno de la Comunidad de Valencia",
+        "respuesta": "José Serrano Simeón",
+        "incorrecta1": "Pedro Figueredo",
+        "incorrecta2": "Antonio Neumane",
+        "incorrecta3": "Ludwig Van Beethoven",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Obra a la que pertenece este fragmento: 'No es verdad, ángel de amor, que en esta apartada orilla...'",
+        "respuesta": "Don Juan Tenorio",
+        "incorrecta1": "La Tempestad",
+        "incorrecta2": "Macbeth",
+        "incorrecta3": "Hamlet \r",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Siglo en el que nació el artista conocido como Caravaggio",
+        "respuesta": "XVI",
+        "incorrecta1": "XX",
+        "incorrecta2": "X",
+        "incorrecta3": "XIV\r",
+        "imagen": "https://i.ibb.co/4P0QTLz/image.jpg",
+        "objectFit": "contain",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": " Gente que no posee magia en la saga de Harry Potter.",
+        "respuesta": "Muggles",
+        "incorrecta1": "Hufflepuffs",
+        "incorrecta2": "Ratñingers",
+        "incorrecta3": "Kubys\r",
+        "imagen": "https://i.ibb.co/swnsyLp/harry-potter.gif",
+        "objectFit": "contain",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Animal que son los polacos en la novela gráfica sobre el Holocausto nazi 'Maus'.",
+        "respuesta": "Cerdos",
+        "incorrecta1": "Ratas",
+        "incorrecta2": "Sapos",
+        "incorrecta3": "Viboras\r",
+        "imagen": "https://i.ibb.co/JyRwWLF/Maus-Art-Spiegelman-980x450.jpg",
+        "objectFit": "contain",
+        "dificultad":4
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Obra de mármol de Miguel Ángel que se encuentra en la Basílica de San Pedro",
+        "respuesta": "La Piedad",
+        "incorrecta1": "La Turbación",
+        "incorrecta2": "La Cruz",
+        "incorrecta3": "La Mona Lisa\r",
+        "imagen": "https://i.ibb.co/7vHK9tX/cincel.jpg",
+        "objectFit": "contain",
+        "dificultad":4
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Músculos que se encargan de los movimientos involuntarios.",
+        "respuesta": "Lisos",
+        "incorrecta1": "Estriados",
+        "incorrecta2": "Cardíacos",
+        "incorrecta3": "Esqueléticos\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Enfermedad que ataca al hígado.",
+        "respuesta": "Hepatitis",
+        "incorrecta1": "Renitis",
+        "incorrecta2": "Bulimia",
+        "incorrecta3": "Onicomicosis\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Función principal del intestino grueso",
+        "respuesta": "Absorción De Agua",
+        "incorrecta1": "Producción De Insulina",
+        "incorrecta2": "Producción De Glucógeno",
+        "incorrecta3": "Producción Del Jugo Pancreático\r",
+        "imagen": "https://i.ibb.co/pJ8q4JB/image.jpg",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de estado ocurre en la sublimación.",
+        "respuesta": "Solido A Gaseoso",
+        "incorrecta1": "Gaseoso A Solido",
+        "incorrecta2": "Solido A Liquido",
+        "incorrecta3": "Liquido A Gaseoso\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Órgano del cuerpo humano produce la bilis.",
+        "respuesta": "Hígado",
+        "incorrecta1": "Páncreas",
+        "incorrecta2": "Estomago",
+        "incorrecta3": "Riñón\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg",
+      "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Dónde vive el delfín rosado?",
+        "respuesta": "En Brasil",
+        "incorrecta1": "En Oceanía",
+        "incorrecta2": "Solo En Aguas Cálidas",
+        "incorrecta3": "Solo En Aguas Muy Frías\r",
+      "imagen": "https://i.ibb.co/RTffJbX/d.jpg",
+      "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En qué lugar del cuerpo se produce la insulina?",
+        "respuesta": "Páncreas",
+        "incorrecta1": "Hígado",
+        "incorrecta2": "Intestino",
+        "incorrecta3": "Riñón\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg",
+      "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama a los electrones que se encuentran en la última capa del átomo?",
+        "respuesta": "Electrones De Valencia",
+        "incorrecta1": "Electrones",
+        "incorrecta2": "Iones",
+        "incorrecta3": "Isotopos\r",
+      "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg",
+      "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo debería estar una persona para que le fuera practicada una autopsia? ",
+        "respuesta": "Muerta",
+        "incorrecta1": "En Coma",
+        "incorrecta2": "Dormida",
+        "incorrecta3": "Sedada\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué son las enzimas?",
+        "respuesta": "Proteínas",
+        "incorrecta1": "Hadas ",
+        "incorrecta2": "Glúcidos",
+        "incorrecta3": "Células \r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Los elefantes…",
+        "respuesta": "Barritan",
+        "incorrecta1": "Gritan",
+        "incorrecta2": "Gruñen",
+        "incorrecta3": "Brujen\r",
+      "imagen": "https://i.ibb.co/rZcFJrW/1036712.jpg",
+      "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué hay en la boca del estómago? ",
+        "respuesta": "El Cardias",
+        "incorrecta1": "El Píloro",
+        "incorrecta2": "Los Ácidos Gástricos",
+        "incorrecta3": "El Epilón Mayor\r",
+        "dificultad":2
+    },
+  
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De qué color es la sangre de los peces?",
+        "respuesta": "Rojo",
+        "incorrecta1": "Verde Oscuro",
+        "incorrecta2": "Marrón Oscuro",
+        "incorrecta3": "Azul\r",
+        "imagen": "https://i.ibb.co/Jyvx3Gb/540dc6daf152es296230-p-1.jpg",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál de los siguientes órganos NO es parte del sistema inmunológico?",
+        "respuesta": "Esófago",
+        "incorrecta1": "Médula Ósea",
+        "incorrecta2": "Bazo",
+        "incorrecta3": "Timo \r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De dónde de saca la sacarina?",
+        "respuesta": "Del Carbón",
+        "incorrecta1": "Del Aceite De Girasol",
+        "incorrecta2": "Del Azúcar",
+        "incorrecta3": "Del Azufre\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué contiene el cactus llamado peyote?",
+        "respuesta": "Mescalina",
+        "incorrecta1": "Lsd ",
+        "incorrecta2": "Mdma",
+        "incorrecta3": "Salvia\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué se altera cuando nos damos un golpe en la cabeza que nos hace \"ver las estrellas\"?",
+        "respuesta": "El Nervio Óptico",
+        "incorrecta1": "El Hipotálamo",
+        "incorrecta2": "El Bulbo Raquídeo",
+        "incorrecta3": "La Pituitaria\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el cérvido de mayor tamaño?",
+        "respuesta": "El Alce",
+        "incorrecta1": "El Corzo",
+        "incorrecta2": "El Ciervo",
+        "incorrecta3": "El Pudú\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es el calostro?",
+        "respuesta": "La Primera Leche Materna",
+        "incorrecta1": "Un Hueso De La Espina Dorsal",
+        "incorrecta2": "Una Hormona",
+        "incorrecta3": "Una Parte Del Intestino Grueso\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el hueso más pequeño del cuerpo?",
+        "respuesta": "El Estribo",
+        "incorrecta1": "El Yunque",
+        "incorrecta2": "La Falange",
+        "incorrecta3": "Ninguna Es Correcta\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg",
+      "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué estudia la ictiología?",
+        "respuesta": "Los Peces",
+        "incorrecta1": "Las Rocas",
+        "incorrecta2": "Los Insectos",
+        "incorrecta3": "Las Erupciones Cutáneas\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el mamífero más grande conocido hasta la actualidad?",
+        "respuesta": "Ballena Azul",
+        "incorrecta1": "Cachalote",
+        "incorrecta2": "Elefante",
+        "incorrecta3": "Rinoceronte\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es un equino?",
+        "respuesta": "Un Caballo",
+        "incorrecta1": "Una Vaca",
+        "incorrecta2": "Un Antílope",
+        "incorrecta3": "Una Oveja\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué es la queratina?",
+        "respuesta": "Una Proteína",
+        "incorrecta1": "Un Lípido",
+        "incorrecta2": "Un Ácido Nucleico",
+        "incorrecta3": "Veneno\r",
+        "dificultad":2
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿A qué país pertenece la isla de Tasmania?",
+        "respuesta": "Australia",
+        "incorrecta1": "Portugal",
+        "incorrecta2": "Estados Unidos",
+        "incorrecta3": "Ninguna Es Correcta\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En cuál de los siguientes países NO hay ningún desierto?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Mongolia",
+        "incorrecta2": "Chile",
+        "incorrecta3": "España\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el código internacional para Cuba?",
+        "respuesta": "CU",
+        "incorrecta1": "CA",
+        "incorrecta2": "CB",
+        "incorrecta3": "Ninguna Es Correcta\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital del estado de Arkansas?",
+        "respuesta": "Little Rock",
+        "incorrecta1": "Kansas",
+        "incorrecta2": "Hot Springs",
+        "incorrecta3": "Washington\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país situarías la ciudad de Cali?",
+        "respuesta": "Colombia",
+        "incorrecta1": "Venezuela",
+        "incorrecta2": "Costa Rica",
+        "incorrecta3": "Chile\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de estas características no pertenece al clima Mediterráneo?",
+        "respuesta": "Lluvias Muy Abundantes",
+        "incorrecta1": "Veranos Secos Y Calurosos",
+        "incorrecta2": "Es Un Tipo De Clima Templado",
+        "incorrecta3": "Variables Temperaturas En Primavera\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué es el Cabo de Creus?",
+        "respuesta": "El Punto Más Oriental De La Península",
+        "incorrecta1": "El Punto Más Oriental De España",
+        "incorrecta2": "El Punto Más Oriental De Cataluña",
+        "incorrecta3": "Ninguna Es Correcta\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es principal celebración holandesa?",
+        "respuesta": "El Día De La Reina",
+        "incorrecta1": "Halloween",
+        "incorrecta2": "Navidad",
+        "incorrecta3": "La Llegada Del Verano\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las siguientes especialidades NO es típica de la cocina estadounidense?",
+        "respuesta": "Todas Son Típicas",
+        "incorrecta1": "La Hamburguesa",
+        "incorrecta2": "El Pastel De Cangrejo",
+        "incorrecta3": "La Tarta De Manzana\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Con cuántos países limita Argentina?",
+        "respuesta": "5",
+        "incorrecta1": "4",
+        "incorrecta2": "3",
+        "incorrecta3": "2\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué es la UA?",
+        "respuesta": "Unión Africana",
+        "incorrecta1": "Unión Austrohúngara",
+        "incorrecta2": "Unión Americana",
+        "incorrecta3": "Unión Afroamericana\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "respuesta": "Berna",
+        "incorrecta1": "Zúrich",
+        "incorrecta2": "Ginebra",
+        "incorrecta3": "Basilea\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué separa las franjas de Gaza y Cisjordania?",
+        "respuesta": "Israel",
+        "incorrecta1": "Un Río",
+        "incorrecta2": "Nada",
+        "incorrecta3": "Un Muro\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país está Ushuaia, la ciudad más al sur del mundo?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Sudáfrica",
+        "incorrecta3": "Nueva Zelanda\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de estos países africanos no tiene costa?",
+        "respuesta": "Todas Tienen Costa",
+        "incorrecta1": "Gambia",
+        "incorrecta2": "Senegal",
+        "incorrecta3": "Mauritania\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué se dividen las rupias indias y pakistanís?",
+        "respuesta": "En Paisas",
+        "incorrecta1": "En Peniques",
+        "incorrecta2": "En Céntimos",
+        "incorrecta3": "En Centavos\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las siguientes islas está más al sur?",
+        "respuesta": "Malta",
+        "incorrecta1": "Sicilia",
+        "incorrecta2": "Córcega",
+        "incorrecta3": "Cerdeña\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las siguientes ciudades no es una ciudad santa?",
+        "respuesta": "Burgos",
+        "incorrecta1": "Asís",
+        "incorrecta2": "Hebrón",
+        "incorrecta3": "Santiago De Compostela\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Baréin? ",
+        "respuesta": "Manama",
+        "incorrecta1": "Ammán",
+        "incorrecta2": "Riad",
+        "incorrecta3": "Bahréin\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país está la Laguna Verde? ",
+        "respuesta": "Bolivia",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Todas Son Correctas\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué cordillera están la mayoría de las grandes montañas? ",
+        "respuesta": "En El Himalaya",
+        "incorrecta1": "En Los Andes",
+        "incorrecta2": "En Las Montañas Rocosas",
+        "incorrecta3": "En El Karakórum\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué ciudad europea es famosa por la belleza de su parlamento? ",
+        "respuesta": "Budapest",
+        "incorrecta1": "París",
+        "incorrecta2": "Madrid",
+        "incorrecta3": "Praga\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Libia? ",
+        "respuesta": "Trípoli",
+        "incorrecta1": "Beirut",
+        "incorrecta2": "El Cairo",
+        "incorrecta3": "Riad\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Entre qué dos países está el lago Titicaca?",
+        "respuesta": "Bolivia Y Perú",
+        "incorrecta1": "Bolivia Y Paraguay",
+        "incorrecta2": "Bolivia Y Brasil",
+        "incorrecta3": "Bolivia Y Argentina\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de la república de Macedonia?",
+        "respuesta": "Skopie",
+        "incorrecta1": "La Valeta",
+        "incorrecta2": "Chisinau",
+        "incorrecta3": "Sarajevo\r",
+        "dificultad":3
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué deporte es el longboard una de las modalidades?",
+        "respuesta": "Skateboard",
+        "incorrecta1": "Snowboard",
+        "incorrecta2": "Alpinismo",
+        "incorrecta3": "Surf\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se destaca Jonny Wilkinson?",
+        "respuesta": "Rugby",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Atletismo",
+        "incorrecta3": "Remo\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué color es el cero en el cilindro de la ruleta?",
+        "respuesta": "Verde",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Rojo",
+        "incorrecta3": "Blanco\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué barrio porteño pertenece el club de fútbol San Lorenzo?",
+        "respuesta": "Boedo",
+        "incorrecta1": "La Boca",
+        "incorrecta2": "Liniers",
+        "incorrecta3": "Paternal\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto pesa aproximadamente una bola de bolera?",
+        "respuesta": "Siete Kilos Y Cuarto",
+        "incorrecta1": "5 Kilos Y Cuarto",
+        "incorrecta2": "Cuatro Kilos Y Medio",
+        "incorrecta3": "Ocho Kilos Y Cuarto\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos puntos valen un tiro libre encestado en baloncesto?",
+        "respuesta": "Uno",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Depende\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el estadio de fútbol con mayor capacidad en América?",
+        "respuesta": "Estadio Azteca (México)",
+        "incorrecta1": "Estadio Maracaná (Brasil)",
+        "incorrecta2": "Estadio Monumentar (Argentina)",
+        "incorrecta3": "Estadio Morumbi (Brasil)\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué tipo de competición es el Giro de Italia?",
+        "respuesta": "Una Carrera Ciclistica",
+        "incorrecta1": "Una Competición De Vela",
+        "incorrecta2": "Un Maratón",
+        "incorrecta3": "Una Carrera Automovilística\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto dura un partido de fútbol?",
+        "respuesta": "90 Minutos",
+        "incorrecta1": "45 Minutos",
+        "incorrecta2": "75 Minutos",
+        "incorrecta3": "80 Minutos\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el derbi más esperado en Andalucía?",
+        "respuesta": "Betis Vs Sevilla",
+        "incorrecta1": "Real Madrid Vs At. Madrid",
+        "incorrecta2": "Real Madrid Vs Sevilla",
+        "incorrecta3": "Granada Vs Málaga\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama la zona de hierba rasa donde está ubicado el hoyo en golf?",
+        "respuesta": "Green",
+        "incorrecta1": "Esplanada",
+        "incorrecta2": "Campo",
+        "incorrecta3": "Terreno\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estas frases NO fue dicha por Diego Armando Maradona?",
+        "respuesta": "La Pelota No Dobla",
+        "incorrecta1": "Pelé, Debutó Con Un Pibe",
+        "incorrecta2": "Segurola Y La Habana 4310 7mo Piso",
+        "incorrecta3": "La Pelota No Se Mancha\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estos pilotos no es de F1?",
+        "respuesta": "Richard Petty",
+        "incorrecta1": "Fernando Alonso",
+        "incorrecta2": "Sebastian Vettel",
+        "incorrecta3": "Mark Webber\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué tipo de billar se juega con más bolas?",
+        "respuesta": "Snooker",
+        "incorrecta1": "Bola 9",
+        "incorrecta2": "Billar Español",
+        "incorrecta3": "Billar Italiano\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué nacionalidad es el entrenador de fútbol Tata Martino?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Italia",
+        "incorrecta2": "España",
+        "incorrecta3": "Brasil\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En cuál de estos deportes no hay árbitro?",
+        "respuesta": "Ultímate",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Basquetbol",
+        "incorrecta3": "Voleibol\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el país de origen del futbolista Lionel Messi?",
+        "respuesta": "Argentina",
+        "incorrecta1": "España",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Chile\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama la cantera del FC Barcelona?",
+        "respuesta": "La Masía",
+        "incorrecta1": "El Chalet",
+        "incorrecta2": "La Fábrica",
+        "incorrecta3": "La Depuradora\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de los siguientes es un truco de skate?",
+        "respuesta": "Ollie",
+        "incorrecta1": "Mollie",
+        "incorrecta2": "Clop",
+        "incorrecta3": "Superclop\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Cuándo el árbitro de fútbol hace sonar su silbato a los 90 minutos ¿Qué significa?",
+        "respuesta": "Finalización Del Partido",
+        "incorrecta1": "Medio Tiempo",
+        "incorrecta2": "Falta",
+        "incorrecta3": "Tarjeta\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó el mundial de fútbol del año 2002?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Italia",
+        "incorrecta2": "España",
+        "incorrecta3": "Francia\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A la selección de rugby de qué país se los conoce como Los Pumas?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Sudáfrica",
+        "incorrecta2": "Australia",
+        "incorrecta3": "Gales\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el estadio del Universidad de Las Palmas?",
+        "respuesta": "Maspalomas",
+        "incorrecta1": "Los Pajaricos",
+        "incorrecta2": "Pedro Escartín",
+        "incorrecta3": "Monumental\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En cuál de estas situaciones se sacará una bandera amarilla, o incluso roja, en las carreras de coches?",
+        "respuesta": "Un Peligro En La Pista",
+        "incorrecta1": "Se Ha Declarado Un Ganador",
+        "incorrecta2": "Queda Una Vuelta",
+        "incorrecta3": "La Carrera Va A Empezar\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país ganó el Mundial de balonmano en el año 2013?",
+        "respuesta": "España",
+        "incorrecta1": "Croacia",
+        "incorrecta2": "Serbia",
+        "incorrecta3": "Francia\r",
+        "dificultad":1
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántos colores tiene un cubo de Rubik clásico?",
+        "respuesta": "6",
+        "incorrecta1": "4",
+        "incorrecta2": "8",
+        "incorrecta3": "9\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué concurso presentó Ramoncín?",
+        "respuesta": "Lingo ",
+        "incorrecta1": "Saber Y Ganar ",
+        "incorrecta2": "Pasapalabra",
+        "incorrecta3": "Canta Un Poquito\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es el nombre de Paul McCartney?",
+        "respuesta": "James Paul Mccartney",
+        "incorrecta1": "Paul Mccartney Suer",
+        "incorrecta2": "Paul James Mccartney",
+        "incorrecta3": "Sir Paul Maccartney\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es la discográfica distintiva de la música soul?",
+        "respuesta": "Atlantic",
+        "incorrecta1": "Sony Music",
+        "incorrecta2": "Emi",
+        "incorrecta3": "Bmg Music\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama la serie de dibujos animados en la que sale un gato cósmico del siglo XXI?",
+        "respuesta": "Doraemon",
+        "incorrecta1": "Bob Esponja",
+        "incorrecta2": "Las Tortugas Ninja",
+        "incorrecta3": "Las Supernenas \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué época quedo ciego Stevie Wonder?",
+        "respuesta": "En La Infancia",
+        "incorrecta1": "En Los 60's",
+        "incorrecta2": "En Los 70's",
+        "incorrecta3": "En Los 80's\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué actor ha hecho más películas como James Bond?",
+        "respuesta": "Roger Moore ",
+        "incorrecta1": "Pierce Brosnan",
+        "incorrecta2": "Sean Connery",
+        "incorrecta3": "Daniel Craig\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál de las siguientes películas NO fue dirigida por los hermanos Coen?",
+        "respuesta": "Four Rooms",
+        "incorrecta1": "Arizona Baby ",
+        "incorrecta2": "Fargo ",
+        "incorrecta3": "Barton Fink\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué banda de Heavy Metal lanzó un disco de colaboración con el recientemente fallecido Lou Reed?",
+        "respuesta": "Metálica",
+        "incorrecta1": "Megadeth",
+        "incorrecta2": "Slayer",
+        "incorrecta3": "Machine Head \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué Beatle fue asesinado por un fan?",
+        "respuesta": "Jonh Lennon",
+        "incorrecta1": "George Harrison ",
+        "incorrecta2": "Ringo Star",
+        "incorrecta3": "Ninguno \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el robot alcohólico de la serie 'Futurama'?",
+        "respuesta": "Bender",
+        "incorrecta1": "Zoidberg",
+        "incorrecta2": "Leela",
+        "incorrecta3": "Hubert\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿De qué distrito es Katniss de Los juegos del hambre?",
+        "respuesta": "Distrito 12",
+        "incorrecta1": "Distrito 3",
+        "incorrecta2": "Distrito 8",
+        "incorrecta3": "Distrito 11\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Rowan Atkinson es famoso por el personaje llamado...?",
+        "respuesta": "Mr. Bean ",
+        "incorrecta1": "Benjamín Button ",
+        "incorrecta2": "El Sombrerero Loco",
+        "incorrecta3": "Link \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el personaje que interpreta Mario Casas en la serie \"El Barco\"?",
+        "respuesta": "Ulises ",
+        "incorrecta1": "Mario ",
+        "incorrecta2": "Palomares ",
+        "incorrecta3": "Piti \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué grupo ha sido precursor del género Flamenco Chill?",
+        "respuesta": "Chambao",
+        "incorrecta1": "Azúcar Moreno ",
+        "incorrecta2": "Mojinos Escozíos ",
+        "incorrecta3": "La Quinta Estación\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué grupo interpretaba la canción \" Smells like teen spirit \"?",
+        "respuesta": "Nirvana",
+        "incorrecta1": "Los Rolling Stones ",
+        "incorrecta2": "Los Beatles ",
+        "incorrecta3": "Led Zeppelin \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el payaso de 'Los Simpson'?",
+        "respuesta": "Krusty",
+        "incorrecta1": "Kristy",
+        "incorrecta2": "Kris",
+        "incorrecta3": "Kroger\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué actriz hace un desnudo de su brazo en 'Gilda '?",
+        "respuesta": "Rita Hayworth",
+        "incorrecta1": "Katharine Hepburn",
+        "incorrecta2": "Elizabeth Taylor ",
+        "incorrecta3": "Marilyn Monroe \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuándo comenzó a emitirse Gran Hermano en España?",
+        "respuesta": "2000",
+        "incorrecta1": "1998",
+        "incorrecta2": "2001",
+        "incorrecta3": "2003\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es la famosa película de Audrey Hepburn donde salía una conocida joyería?",
+        "respuesta": "Desayuno Con Diamantes ",
+        "incorrecta1": "Ninguna Es Correcta ",
+        "incorrecta2": "Vestida De Gala ",
+        "incorrecta3": "Princesas \r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿De qué famosa película de Disney es el personaje Jafar?",
+        "respuesta": "Aladdin",
+        "incorrecta1": "Kroger",
+        "incorrecta2": "El Rey León ",
+        "incorrecta3": "Kris\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué banda canta Anthony Kiedis ?",
+        "respuesta": "Red Hot Chili Peppers",
+        "incorrecta1": "Metalica",
+        "incorrecta2": "Aerosmith",
+        "incorrecta3": "Radiohead\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el personaje de 'Hellraiser' que tiene clavos en la cara?",
+        "respuesta": "Pinhead",
+        "incorrecta1": "No Tiene Nombre ",
+        "incorrecta2": "Arbusto ",
+        "incorrecta3": "Pinchoman\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál fue el primer festival de rock gratuito en durar más de 3 días en 1969?",
+        "respuesta": "Woodstock",
+        "incorrecta1": "Glastonbury",
+        "incorrecta2": "Love Parade",
+        "incorrecta3": "Reading\r",
+        "dificultad":0
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el pájaro símbolo de los Juegos del Hambre?",
+        "respuesta": "Sinsajo",
+        "incorrecta1": "Lechuza ",
+        "incorrecta2": "Gale",
+        "incorrecta3": "Llamas\r",
+        "dificultad":0
+    }
+]
