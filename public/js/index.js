@@ -47,7 +47,6 @@ async function registrar(data) {
 
 function enviardatos(result) {
   let Jugador = new Jugadores(nombre, edad, email, preguntas_correctas, result);
-  console.log(Jugador);
   registrar(Jugador);
   location.reload(true);
 }
@@ -60,7 +59,6 @@ function inicioronda() {
 }
 
 function imprimir(question, n) {
-  console.log(question);
   pregunta = question;
   select_id("numero").innerHTML = n;
   select_id("categoria").innerHTML = `Categoria: ${question.categoria}`;
@@ -77,8 +75,8 @@ function imprimir(question, n) {
 
   if (question.imagen) {
     select_id("imagen").setAttribute("src", question.imagen);
-    style("imagen").height = "200px";
-    style("imagen").width = "100%";
+    style("imagen").height = "120px";
+    style("imagen").width = "45%";
   } else {
     style("imagen").height = "0px";
     style("imagen").width = "0px";
