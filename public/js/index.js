@@ -53,7 +53,6 @@ function enviardatos(result) {
 function inicioronda() {
   let datos = new Connection("../data/base-preguntas.json");
   let interprete = datos.get();
-  console.log(interprete);
   let question = new Pregunta(interprete, preguntas_hechas);
   imprimir(question.escogerPreguntasAleatoria(), preguntas_hechas);
 }
